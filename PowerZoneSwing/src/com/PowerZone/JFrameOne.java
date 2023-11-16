@@ -1,6 +1,6 @@
 package com.PowerZone;
 
-import JFrame;
+
 import javax.swing.JFrame;
 
 /**  
