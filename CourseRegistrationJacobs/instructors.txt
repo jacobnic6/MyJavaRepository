@@ -1,0 +1,3 @@
+Wanda Jean,Smith,wsmith@dmacc.edu
+Wilma,Fitz,wfitz@dmacc.edu
+Emily,Theo,etheo@dmacc.edu
